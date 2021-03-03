@@ -1,7 +1,7 @@
 <?php
 
-$openapi_username = "put here your username";
-$openapi_apikey = "put here your apikey";
+$openapi_username = "tutorials@openapi.it";
+$openapi_apikey = "39d4122862f2619981518e418aa2f053";
 $openapi_scopes = array(	"GET:test.ws.ufficiopostale.com/raccomandate",
 							"POST.test.ws.ufficiopostale.com/raccomandate",
 							"PATCH.test.ws.ufficiopostale.com/raccomandate",
