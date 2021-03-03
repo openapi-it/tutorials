@@ -6,7 +6,7 @@ Una lista completa di video tutoria accompagnati da esempi pratici nei linguaggi
 
 ## Elenco dei video
 
-| Tema | Linguaggio | Link |
-| ------ | ------ | ------ |
-| Ottenimento di un token | WEB | [https://youtu.be/a3YSNSioCDE][Youtube] |
-| Ottenimento di un token usando cURL | PHP | [https://youtu.be/871kxUVD7BY][Youtube] |
+| Tema | Linguaggio | Link | Esempi |
+| ------ | ------ | ------ | ------ |
+| Ottenimento di un token | WEB | [https://youtu.be/a3YSNSioCDE][Youtube] | ------ |
+| Ottenimento di un token usando cURL | PHP | [https://youtu.be/871kxUVD7BY][Youtube] | [PHP/token.php] |
