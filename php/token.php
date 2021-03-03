@@ -2,10 +2,7 @@
 
 $openapi_username = "tutorials@openapi.it";
 $openapi_apikey = "39d4122862f2619981518e418aa2f053";
-$openapi_scopes = array(	"GET:test.ws.ufficiopostale.com/raccomandate",
-							"POST.test.ws.ufficiopostale.com/raccomandate",
-							"PATCH.test.ws.ufficiopostale.com/raccomandate",
-							"GET.test.ws.ufficiopostale.com/tracking");
+$openapi_scopes = array(	"GET:test.ws.ufficiopostale.com/raccomandate");
 							
 $openapi_request = array("scopes"=>$openapi_scopes);
 
